@@ -1,6 +1,6 @@
 {
-  "name": "canva-apps-sdk-starter-kit",
-  "description": "A boilerplate for creating Canva Apps.",
+  "name": "card-maker-for-canva",
+  "description": "Playing card template generator for Canva.",
   "engines": {
     "node": "^18 || ^20.10.0",
     "npm": "^9 || ^10"
@@ -18,9 +18,9 @@
     "test:watch": "jest --no-cache --watch"
   },
   "keywords": [],
-  "author": "Canva Pty Ltd.",
+  "author": "Veronica Eulenberg",
   "license": "SEE LICENSE IN LICENSE.md",
-  "private": true,
+  "private": false,
   "workspaces": [
     "./examples/*"
   ],
