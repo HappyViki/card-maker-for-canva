@@ -4,7 +4,7 @@ Design your own playing cards with this playing card template generator! With on
 
 Print on card stock for best results.
 
-![printed sample set](/assets/images/featured.jpg)
+![printed sample set](/assets/images/featured.png)
 
 ## Examples
 
