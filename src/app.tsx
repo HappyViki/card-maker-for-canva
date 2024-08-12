@@ -42,6 +42,9 @@ const uploadSuits = async () => {
     thumbnailUrl: spade,
   });
 
+  await SUITS.CLUB.whenUploaded();
+  await SUITS.DIAMOND.whenUploaded();
+  await SUITS.HEART.whenUploaded();
   await SUITS.SPADE.whenUploaded();
 };
 
