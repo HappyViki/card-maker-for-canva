@@ -14,11 +14,11 @@ Add an image to the center.
 
 Remove the center and add an image to the whole card.
 
-![10 of Spades](/assets/images/2 of spades.png)
+![10 of Spades](/assets/images/featured2.png)
 
 Mix and match background colors, images, graphics, etc.
 
-![3 of Hearts](/assets/images/3 of hearts.png)
+![3 of Hearts](/assets/images/featured3.png)
 
 Here's what a finished page may look like!
 
