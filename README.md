@@ -4,13 +4,13 @@ Design your own playing cards with this playing card template generator! With on
 
 Print on card stock for best results.
 
-![printed sample set](/assets/images/finished-sample.jpg)
+![printed sample set](/assets/images/featured.jpg)
 
 ## Examples
 
 Add an image to the center.
 
-![Queen of Hearts](/assets/images/featured.png)
+![Queen of Hearts](/assets/images/featured4.png)
 
 Remove the center and add an image to the whole card.
 
